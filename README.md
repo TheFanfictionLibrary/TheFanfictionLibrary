@@ -1,4 +1,9 @@
 ## Hi there 👋
+🔭 I’m currently working on a fanfiction library for those to go and enjoy fanfiction. be warned i'm just doing this for fun. literally just goofing around.
+
+🌱 I’m currently learning code for making sites. my mom made many sites back before 2008. heck she made sites for a lot of people for fun and made bots. so i'm doing what she did!
+
+😄 Pronouns: she/her because i'm a one-man band on this. lol 
 
 <!--
 **TheFanfictionLibrary/TheFanfictionLibrary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
